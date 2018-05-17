@@ -27,3 +27,4 @@ mv assets/app/jquery-mobile/tmp/jquery.mobile-1.4.0-rc.1.min.css assets/app/jque
 mv assets/app/jquery-mobile/tmp/images assets/app/jquery-mobile/css/
 rm assets/app/jquery-mobile/jquery.mobile-1.4.0-rc.1.zip
 rm -rf assets/app/jquery-mobile/tmp
+
